@@ -1,0 +1,21 @@
+1,jose
+2,maria
+3,pedro
+5,pedro
+6,lion,
+7,juan,
+8,juan,
+9,,
+10,,
+11,,
+12,jose,
+13,,,,
+14,alfonso,galvan,madera,21
+29,juan,lopez,hernandez,21
+30,,lopez,hernandez,21
+31,,lopez,hernandez,21
+32,jose,,hernandez,
+33,juan ,bananas,melquiades,12
+35,jose,bananas,melquiades,12
+36,hoslwdds,bananas,melquiades,1221,aldo,fer,lo,
+22,aldo,fer,lo,
